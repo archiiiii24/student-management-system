@@ -140,6 +140,27 @@ Grade ID
 Grade
 The application now displays an academic report and calculates the final GPA.
 
+
+Dependencies
+
+This project does not require any external libraries or third-party dependencies. It uses standard Java classes such as Scanner, ArrayList, FileWriter, and IOException.
+
+Configuration
+
+No additional configuration or environment variables are required.
+
+The project uses the data folder for storing student, course, enrollment, and grade records. Make sure the data folder exists in the project root before running the application
+
+
+Expected Result
+
+Student details
+Course details
+Enrollment details
+Grade and grade point
+Academic report
+Final GPA
+
 # 9. Validation
 The application does the following level of validation:
 Student ID
