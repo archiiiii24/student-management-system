@@ -168,6 +168,8 @@ Invalid grade input
 Text-file storage
 
 🚀12. Future Enhancement
+
+
 Some of the future enhancement of this application could include the following:
 Update and delete student records
 Multiple course per student
@@ -176,7 +178,11 @@ Graphical User Interface (GUI)
 Database
 Login and user authentication
 Downloadable academic report
+
+
 👩‍🎓 13. Author
+
+
 Name: Archita Singh Registration No: 25BAI11553 Course: Programming in JAVA
 
 
