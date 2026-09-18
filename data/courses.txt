@@ -1,0 +1,9 @@
+1003, java, 2
+1002, cpp, 3
+456, maths, 3
+345, alzebra, 3
+321, dld, 3
+344, cpp, 3
+456, physics, 3
+344, cpp, 3
+1003, java, 2

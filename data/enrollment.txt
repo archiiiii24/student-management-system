@@ -1,0 +1,9 @@
+shreya, java, 2
+Aditi, cpp, 3
+abhi, maths, 3
+satwik, alzebra, 3,3
+PIYUSH, dld, 3,3
+akshita, cpp, 3,3
+shiv, physics, 3,3
+shweta, cpp, 3,3
+AYUSH, java, 2,2
